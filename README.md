@@ -2,7 +2,7 @@
 
 This is Task 3 submission for the Java Developer Internship (Elevate Labs).
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## 🧠 Objective
 To build a simple console-based system using OOP concepts to manage books and issue/return them.
