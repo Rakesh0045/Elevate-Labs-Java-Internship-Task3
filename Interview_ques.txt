@@ -1,0 +1,31 @@
+1. What is abstraction?
+Abstraction means hiding internal implementation details and showing only functionality to the user.
+
+2. Difference between interface and abstract class?
+Interface: all methods are abstract by default (Java 8+ supports default methods).
+Abstract class: can have both abstract and concrete methods.
+
+3. Explain polymorphism with example.
+Polymorphism means many forms. Example: method overloading and overriding in Java.
+
+4. What is method overriding?
+When a subclass provides a specific implementation of a method already defined in the parent class.
+
+5. Explain ‘IS-A’ vs ‘HAS-A’ relationship.
+IS-A: Inheritance (e.g., Dog IS-A Animal)
+HAS-A: Composition (e.g., Car HAS-A Engine)
+
+6. Why use interface?
+To achieve full abstraction and multiple inheritance in Java.
+
+7. What is dynamic binding?
+Dynamic binding means method call is resolved at runtime. Used in method overriding.
+
+8. What is constructor chaining?
+Calling one constructor from another constructor using `this()` keyword.
+
+9. How to implement encapsulation?
+By making fields private and using public getters/setters.
+
+10. Explain super keyword.
+Used to refer to the parent class’s constructor or methods.
